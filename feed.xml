@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>bolg</title>
+    <link href="https://topanlee.github.io/topan/feed.xml" rel="self" />
+    <link href="https://topanlee.github.io/topan" />
+    <updated>2020-12-06T22:05:13+08:00</updated>
+    <author>
+        <name>topan</name>
+    </author>
+    <id>https://topanlee.github.io/topan</id>
+
+    <entry>
+        <title>前言</title>
+        <author>
+            <name>topan</name>
+        </author>
+        <link href="https://topanlee.github.io/topan/qian-yan.html"/>
+        <id>https://topanlee.github.io/topan/qian-yan.html</id>
+
+        <updated>2020-12-06T22:05:13+08:00</updated>
+            <summary>
+                <![CDATA[
+                    没错，这又是一个博客
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://topanlee.github.io/topan/media/posts/1/Smart-Devices-abstract-ueno-illustration-3d.png" sizes="(max-width: 768px) 100vw, 1360px" srcset="https://topanlee.github.io/topan/media/posts/1/responsive/Smart-Devices-abstract-ueno-illustration-3d-xs.png 300w ,https://topanlee.github.io/topan/media/posts/1/responsive/Smart-Devices-abstract-ueno-illustration-3d-sm.png 480w ,https://topanlee.github.io/topan/media/posts/1/responsive/Smart-Devices-abstract-ueno-illustration-3d-md.png 768w ,https://topanlee.github.io/topan/media/posts/1/responsive/Smart-Devices-abstract-ueno-illustration-3d-lg.png 1024w ,https://topanlee.github.io/topan/media/posts/1/responsive/Smart-Devices-abstract-ueno-illustration-3d-xl.png 1360w"  alt="" width="800" height="600"></figure>
+<p>没错，这又是一个博客</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
