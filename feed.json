@@ -10,11 +10,25 @@
     },
     "items": [
         {
+            "id": "https://topanlee.github.io/topan/chuang-bo-zhi-lu.html",
+            "url": "https://topanlee.github.io/topan/chuang-bo-zhi-lu.html",
+            "title": "创博之路",
+            "summary": "2020-12-7今天发现一条新的思路让问题朝着好的方向发展：用Publii创建静态博客同步到 GitHub Page，然后用码云同步GitHub Page 的仓库，最后再把域名解析到这两个仓库地址；更新内容的时候同理，在码云中手动同步一下。现在需要解决的问题有以下：1、整理好示例文件，研究用Publii创建好页面；2、域名解析到这两个仓库；3、在码云中更新的页面，在没梯子的情况下，主页会出现错位，并且跳转失败；问题主要是因为页面跳转到GitHub Page的次级页面，所以打不开",
+            "content_html": "<div class=\"post__entry\">\n<h2 id=\"2020127\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://topanlee.github.io/topan/media/posts/2/banner3x.png\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://topanlee.github.io/topan/media/posts/2/responsive/banner3x-xs.png 300w ,https://topanlee.github.io/topan/media/posts/2/responsive/banner3x-sm.png 480w ,https://topanlee.github.io/topan/media/posts/2/responsive/banner3x-md.png 768w\"  alt=\"\" width=\"765\" height=\"276\"></figure>2020-12-7</h2>\n<p>今天发现一条新的思路让问题朝着好的方向发展：用Publii创建静态博客同步到 GitHub Page，然后用码云同步GitHub Page 的仓库，最后再把域名解析到这两个仓库地址；更新内容的时候同理，在码云中手动同步一下。</p>\n<h5>现在需要解决的问题有以下：</h5>\n<ul style=\"list-style-type: circle;\">\n<li>1、整理好示例文件，研究用Publii创建好页面；</li>\n<li>2、域名解析到这两个仓库；</li>\n<li>3、在码云中更新的页面，在没梯子的情况下，主页会出现错位，并且跳转失败；问题主要是因为页面跳转到GitHub Page的次级页面，所以打不开</li>\n</ul>\n</div>",
+            "author": {
+                "name": "topan"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-07T00:39:22+08:00",
+            "date_modified": "2020-12-07T10:46:54+08:00"
+        },
+        {
             "id": "https://topanlee.github.io/topan/qian-yan.html",
             "url": "https://topanlee.github.io/topan/qian-yan.html",
             "title": "前言",
             "summary": "没错，这又是一个博客",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://topanlee.github.io/topan/media/posts/1/Smart-Devices-abstract-ueno-illustration-3d.png\" sizes=\"(max-width: 768px) 100vw, 1360px\" srcset=\"https://topanlee.github.io/topan/media/posts/1/responsive/Smart-Devices-abstract-ueno-illustration-3d-xs.png 300w ,https://topanlee.github.io/topan/media/posts/1/responsive/Smart-Devices-abstract-ueno-illustration-3d-sm.png 480w ,https://topanlee.github.io/topan/media/posts/1/responsive/Smart-Devices-abstract-ueno-illustration-3d-md.png 768w ,https://topanlee.github.io/topan/media/posts/1/responsive/Smart-Devices-abstract-ueno-illustration-3d-lg.png 1024w ,https://topanlee.github.io/topan/media/posts/1/responsive/Smart-Devices-abstract-ueno-illustration-3d-xl.png 1360w\"  alt=\"\" width=\"800\" height=\"600\"></figure>\n<p>没错，这又是一个博客</p>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://topanlee.github.io/topan/media/posts/1/Smart-Devices-abstract-ueno-illustration-3d.png\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://topanlee.github.io/topan/media/posts/1/responsive/Smart-Devices-abstract-ueno-illustration-3d-xs.png 300w ,https://topanlee.github.io/topan/media/posts/1/responsive/Smart-Devices-abstract-ueno-illustration-3d-sm.png 480w ,https://topanlee.github.io/topan/media/posts/1/responsive/Smart-Devices-abstract-ueno-illustration-3d-md.png 768w\"  alt=\"\" width=\"800\" height=\"600\"></figure>\n<p>没错，这又是一个博客</p>",
             "author": {
                 "name": "topan"
             },
